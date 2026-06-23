@@ -1,0 +1,18 @@
+# Deep Specialized Translation Agent Skill - Python Dependencies
+# Production-grade requirements for the knowledge update pipeline
+
+# Web crawling and content extraction
+crawl4ai>=0.2.0
+
+# HTTP requests (fallback for web fetching)
+requests>=2.31.0
+
+# Type checking and development
+typing-extensions>=4.8.0
+
+# Optional: For enhanced PDF parsing
+# PyPDF2>=3.0.0
+
+# Optional: For advanced text processing
+# beautifulsoup4>=4.12.0
+# lxml>=4.9.0
